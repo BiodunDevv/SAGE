@@ -19,7 +19,7 @@
 
 ## 📋 Overview
 
-**SAGE (Student Advising & Guidance Environment)** is a comprehensive, web-based academic advising platform designed to streamline communication between students, academic advisors, and institutional administrators. The system centralizes advising workflows, improves communication efficiency, and enhances student academic outcomes.
+**SAGE (Student Advising & Guidance Environment)** is a comprehensive, web-based academic advising platform designed to streamline communication between students, academic advisors, and institutional administrators. The system centralizes advising workflows, improves communication efficiency, and enhances student academic outcomes
 
 ### 🎯 Goals
 
